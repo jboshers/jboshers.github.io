@@ -1,0 +1,7 @@
+body {
+  background: var(--color-off-white);
+  color: var(--color-dark-grey);
+  font-family: var(--sans-serif);
+  font-size: 1.8rem;
+  line-height: 1.6;
+}

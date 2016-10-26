@@ -1,0 +1,38 @@
+
+- var pageTitle = page.title || config.subtitle || ''
+- if (is_archive()) pageTitle = 'Articles'
+- if (is_tag()) pageTitle = 'Tag: ' + page.tag
+- if (is_category()) pageTitle = 'Category: ' + page.category
+- if (is_month()) pageTitle += ': ' + page.month + '/' + page.year
+- if (is_year()) pageTitle += ': ' + page.year
+- pageTitle = config.title + ' | ' + pageTitle
+- var themeStyle = page.headerStyle ? 'theme--' + page.headerStyle : 'theme--light'
+- var headerImage = page.headerImage ? 'background-image: url(' + page.headerImage + ')' : 'nahson'
+
+doctype html
+html(lang=config.language)
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    title= pageTitle
+    link(rel='stylesheet', href=config.root + 'css/varg.css')
+    link(rel="icon", href=config.root + 'img/favicon.png')
+    //- TODO: Put a custom image in for the og-image. 
+    != open_graph()
+  body
+    header.header(class=themeStyle)
+      .logo
+        a(href="/" alt="logo" title="Back to homepage")
+          include logo
+      include nav
+    main
+      if body
+        div!= body
+      else
+        article.article
+          block content
+          block sidebar
+    block footer
+      include footer
+    include about
+    script(src=config.root + 'js/varg.js')

@@ -1,0 +1,10 @@
+
+if theme.publications.length > 0
+  section
+    h5.modal__title Publications
+    ul
+      each pub in theme.publications    
+        li
+          = pub[0] 
+          |  - 
+          a(href=pub[2])= pub[1]

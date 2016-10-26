@@ -1,0 +1,9 @@
+extends includes/layout
+
+block content
+  header.billboard(class=themeStyle)
+    .billboard__image(style=headerImage)
+    h1.article__title.article__title--left= page.title
+  .content.content--generated
+    != page.content
+//- include includes/pagination

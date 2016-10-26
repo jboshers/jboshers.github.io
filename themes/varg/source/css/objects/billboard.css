@@ -1,0 +1,27 @@
+.billboard {
+  position: relative;
+  height: 45vh;
+  width: 100%;
+  flex-shrink: 0;
+  background-color: var(--color-red_medium);
+  margin-bottom: 2rem;
+  overflow:hidden;
+}
+
+.billboard__image {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-position: center center;
+  filter: blur(6px) opacity(60%);
+}
+
+.billboard--intro {
+  display: flex;
+  background-color: transparent;
+  color: var(--color-red_medium);
+  align-items: center;
+  align-content: center;
+}

@@ -1,0 +1,15 @@
+extends includes/layout
+
+block content
+  header.billboard(class=themeStyle)
+    .billboard__image(style=headerImage)
+    h1.article__title.article__title--left= page.title
+  .content.content--generated
+    .grid
+      .half
+        != page.content
+      .half
+        each image in page.artImages
+          img(src=image)
+block footer-articles
+  include includes/article_pagination

@@ -1,0 +1,78 @@
+
+extends includes/layout
+
+block content
+  - var categoriesList = list_categories({ show_count: false, style: false })
+  - var tagsList = list_tags({ show_count: false, style: false })
+  - var archivesList = list_archives({ show_count: false, class: 'sidebar' })
+  if !is_year()
+    header.billboard(class=themeStyle)
+      .billboard__image(style=headerImage)
+      h1.article__title.article__title--left Articles
+
+    if theme.atom
+      p The feed is available via&nbsp;
+        a(href=theme.atom) atom
+        span .
+      br
+
+    .content.sp-t
+      - page.posts.each(function(article){
+          .article-card
+            if article.link
+              .article-card__figure
+                a(href=url_for(article.link))
+                  if article.thumb
+                    != image_tag(url_for(article.link) + article.thumb, {class:'article-card__image'})
+                  else
+                    != image_tag("img/default-thumbnail.png", {class: 'article-card__image'})
+              .article-card__body
+                a.article-card__title(href=url_for(article.link))= article.title || 'No Title'
+                p= article.description
+            else
+              .article-card__figure
+                a(href=url_for(article.path))
+                  if article.thumb
+                    != image_tag(url_for(article.path) + article.thumb, {class: 'article-card__image'})
+                  else
+                    != image_tag("img/default-thumbnail.png", {class: 'article-card__image'})
+              .article-card__body
+                a.article-card__title(href=url_for(article.path))= article.title || 'No Title'
+                p= article.description
+      - })
+//- block sidebar
+//-   aside.sidebar
+//-     section.sidebar__section
+//-       h4.sidebar__title Categories
+//-       if categoriesList
+//-         != categoriesList
+//-       else
+//-         p None.
+//- 
+//-     section.sidebar__section
+//-       h4.sidebar__title Tags
+//-       if tagsList
+//-         != tagsList
+//-       else
+//-         p None.
+//-     section.sidebar__section
+//-       h4.sidebar__title Archives
+//-       if archivesList
+//-         != archivesList
+//-       else
+//-         p None.
+//- 
+//-       //- header.billboard
+//-       //-   h1.article__title.article__title--left Archives
+//-       //- .content
+//-       //-   h4= page.month + '/' + page.year
+//-       //-   - page.posts.each(function(article){
+//-       //-     .archive-list-item
+//-       //-       if article.link
+//-       //-         a(href=url_for(article.link) target="_blank")= article.title || 'No Title'
+//-       //-       else
+//-       //-         a(href=url_for(article.path))= article.title || 'No Title'
+//-       //-       time(datetime=date_xml(article.date))= date(article.date)
+//-       //-   - })
+//-       //- 
+//-       //- include includes/pagination

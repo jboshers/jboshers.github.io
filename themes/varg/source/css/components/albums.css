@@ -1,0 +1,16 @@
+.album {
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.album__image {
+  max-width: 100px;
+  margin-right: 2rem;
+}
+
+.album__title {
+  display: block;
+  font-family: var(--serif);
+  font-size: 1.8rem;
+}
