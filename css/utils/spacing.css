@@ -1,0 +1,6 @@
+.sp-t {
+  margin-top: 2rem;
+  @media (--viewport-medium) {
+    margin-top: 6rem;
+  }
+}

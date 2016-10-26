@@ -1,0 +1,54 @@
+.modal {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  background-color: var(--color-off-white);
+  width: 95vw;
+  z-index: 150;
+  transform: translate(-50%, -100%);
+  border: 2rem solid rgba(0, 0, 0, 0.2);
+  background-clip: content-box;
+  transition: transform 600ms;
+}
+
+.modal__close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.modal__header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-basis: 100%;
+}
+
+.modal__body {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem;
+}
+
+.modal__title {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.show {
+  transform: translate(-50%, 2%);
+}
+
+.modal__body section {
+  padding: 2rem;
+}
+
+.mypic {
+  margin-top: 4rem;
+  width: 200px;
+  height: 200px;
+  border: 1px solid var(--color-grey);
+}

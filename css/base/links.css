@@ -1,0 +1,16 @@
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.content--generated a {
+  color: var(--color-violet);
+  text-shadow: 1px 1px 0 var(--color-off-white), -1px 1px 0 var(--color-off-white), 2px 0 0 var(--color-off-white), -2px 0 0 var(--color-off-white);
+  box-shadow: inset 0 -1px 0 0 var(--color-off-white), inset 0 -2px 0 0 var(--color-violet);
+}
+
+.content--generated a:hover {
+  color: var(--color-violet_dark);
+  text-shadow: 1px 1px 0 var(--color-off-white), -1px 1px 0 var(--color-off-white), 2px 0 0 var(--color-off-white), -2px 0 0 var(--color-off-white);
+  box-shadow: inset 0 -1px 0 0 var(--color-off-white), inset 0 -2px 0 0 var(--color-violet_dark);
+}

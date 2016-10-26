@@ -1,0 +1,13 @@
+.homepage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.intro {
+  font-size: 3rem;
+  font-family: var(--serif);
+  color: var(--color-violet);
+  padding: 2rem;
+}

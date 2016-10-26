@@ -1,0 +1,56 @@
+@import "chartist/dist/chartist.css";
+
+.ct-series-a .ct-slice-pie,
+.ct-series-a .ct-area {
+  fill: #8f2834;
+}
+.ct-series-b .ct-slice-pie,
+.ct-series-b .ct-area {
+  fill: #a22e3c;
+}
+.ct-series-c .ct-slice-pie,
+.ct-series-c .ct-area {
+  fill: #b63343;
+}
+.ct-series-d .ct-slice-pie,
+.ct-series-d .ct-area {
+  fill: #c83b4c;
+}
+.ct-series-e .ct-slice-pie,
+.ct-series-e .ct-area {
+  fill: #ce4f5e;
+}
+.ct-series-f .ct-slice-pie,
+.ct-series-f .ct-area {
+  fill: #d36370;
+}
+.ct-series-g .ct-slice-pie,
+.ct-series-g .ct-area {
+  fill: #d97783;
+}
+.ct-series-h .ct-slice-pie,
+.ct-series-h .ct-area {
+  fill: #df8b95;
+}
+.ct-series-i .ct-slice-pie,
+.ct-series-i .ct-area {
+  fill: #e49fa7;
+}
+.ct-series-j .ct-slice-pie,
+.ct-series-j .ct-area {
+  fill: #eab3ba;
+}
+.ct-series-k .ct-slice-pie,
+.ct-series-k .ct-area {
+  fill: #f0c7cc;
+}
+.ct-series-l .ct-slice-pie,
+.ct-series-l .ct-area {
+  fill: #f5dbde;
+}
+
+.ct-label {
+  font-size: 1.25rem;
+  font-family: var(--sans-serif);
+  fill: #FFFFFF;
+}

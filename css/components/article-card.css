@@ -1,0 +1,32 @@
+.article-card {
+  margin-bottom: 6rem;
+  @media (--viewport-medium) {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.article-card__image {
+  @media (--viewport-medium) {
+    max-width: 30rem;
+  }
+}
+
+.article-card__body{
+  @media (--viewport-medium) {
+    margin-left: 4rem;
+  }
+}
+
+.article-card__title {
+  font-family: var(--serif);
+  font-size: 3rem;
+  text-shadow: 1px 1px 0 var(--color-off-white), -1px 1px 0 var(--color-off-white), 2px 0 0 var(--color-off-white), -2px 0 0 var(--color-off-white);
+  box-shadow: inset 0 -8px 0 0 var(--color-off-white), inset 0 -9px 0 0 var(--color-dark-grey);
+}
+
+.article-card__title:hover {
+  color: var(--color-violet_dark);
+  text-shadow: 1px 1px 0 var(--color-off-white), -1px 1px 0 var(--color-off-white), 2px 0 0 var(--color-off-white), -2px 0 0 var(--color-off-white);
+  box-shadow: inset 0 -8px 0 0 var(--color-off-white), inset 0 -9px 0 0 var(--color-violet_dark);
+}

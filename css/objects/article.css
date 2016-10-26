@@ -1,0 +1,33 @@
+.article {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.article .article__title {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 2rem;
+  font-family: var(--serif);
+  font-size: 3.6rem;
+  letter-spacing: .1rem;
+}
+
+.article .article__title--left {
+  left: 0;
+  margin-left: 2rem;
+}
+
+.article .content {
+  width: 75%;
+  max-width: 960px;
+}
+
+.content.has-sidebar {
+  padding-right: 2rem;
+}
+
+img {
+  max-width: 100%;
+}
