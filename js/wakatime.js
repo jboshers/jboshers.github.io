@@ -41,9 +41,7 @@ class WakaPie extends React.Component {
 
 const wakaURL ='https://wakatime.com/share/@lunchbox/81b0c78d-ac76-453b-985b-adaa91721093.json';
 
-fetch(wakaURL, {
-  mode: 'cors'
-})
+fetch(wakaURL)
   .then(function(response) {
     return response.json();
   }).then(function(j){

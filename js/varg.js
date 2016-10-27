@@ -178,9 +178,7 @@
 
 	var wakaURL = 'https://wakatime.com/share/@lunchbox/81b0c78d-ac76-453b-985b-adaa91721093.json';
 
-	fetch(wakaURL, {
-	  mode: 'cors'
-	}).then(function (response) {
+	fetch(wakaURL).then(function (response) {
 	  return response.json();
 	}).then(function (j) {
 	  _reactDom2.default.render(_react2.default.createElement(WakaPie, { languages: j.data }), document.getElementById('languages'));
