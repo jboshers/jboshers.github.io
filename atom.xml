@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Boshe.rs</title>
-  <subtitle>Site of Nashville Front-End Developer, Jeff Boshers</subtitle>
+  <subtitle>Jeff</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://boshe.rs/"/>
