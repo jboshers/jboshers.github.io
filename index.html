@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="english"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><title>Boshe.rs | Site of Nashville Front-End Developer, Jeff Boshers</title><script>/*!
 loadCSS: load a CSS file asynchronously.
 */
-function loadCSS(href) {
+var loadCSS = function (href) {
   var ss = window.document.createElement('link'),
   ref = window.document.getElementsByTagName('head')[0];
   ss.rel = 'stylesheet';
