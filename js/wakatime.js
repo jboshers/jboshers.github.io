@@ -52,7 +52,7 @@ const wakaURL ='https://wakatime.com/share/@lunchbox/c0b6070d-856a-472a-b1ac-ed3
 //   });
 
 function jsonCallback(json){
-  console.log(json);
+  console.log("json", json);
 }
 
 $.ajax({

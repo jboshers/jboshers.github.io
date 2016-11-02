@@ -47,14 +47,13 @@ const goodreadsURL = 'https://www.goodreads.com/review/list/3644808.xml?key=R5jB
 //     let results = xmlToJson(parser(j));
 //     ReactDOM.render(<Recentbooks books={results.GoodreadsResponse.reviews.review} />, document.getElementById('books'));
 //   });
-
-function jsonCallback(json){
-  var j = xmlToJson(parser(json))
-  console.log(j);
-}
-
-$.ajax({
-  url: goodreadsURL
-}).done(function(data){
-  console.log(data);
-});
+// 
+// function jsonCallback(json){
+//   var j = xmlToJson(parser(json))
+//   console.log(j);
+// }
+//
+// $.ajax({
+//   url: goodreadsURL,
+//   dataType: "jsonp"
+// });
