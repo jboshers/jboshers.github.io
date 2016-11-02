@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ChartistGraph from 'react-chartist';
+import $ from 'jquery';
+
 
 class WakaPie extends React.Component {
   scrubData = function() {
@@ -39,11 +41,21 @@ class WakaPie extends React.Component {
   }
 }
 
-const wakaURL ='https://wakatime.com/share/@lunchbox/81b0c78d-ac76-453b-985b-adaa91721093.json';
+const wakaURL ='https://wakatime.com/share/@lunchbox/c0b6070d-856a-472a-b1ac-ed30c691aa86.json';
 
-fetch(wakaURL)
-  .then(function(response) {
-    return response.json();
-  }).then(function(j){
-    ReactDOM.render(<WakaPie languages={j.data} />, document.getElementById('languages'));
-  });
+// fetch(wakaURL)
+//   .then(function(response) {
+//     console.log('header', response.headers.get('Content-Type'))
+//     return response.json();
+//   }).then(function(j){
+//     ReactDOM.render(<WakaPie languages={j.data} />, document.getElementById('languages'));
+//   });
+
+function jsonCallback(json){
+  console.log(json);
+}
+
+$.ajax({
+  url: wakaURL,
+  dataType: "jsonp"
+});
