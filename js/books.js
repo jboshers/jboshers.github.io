@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {xmlToJson, parser} from './parsexml';
-import $ from 'jquery';
 
 var Recentbooks = React.createClass({
   render: function () {
@@ -39,21 +38,11 @@ var Book = React.createClass({
 });
 
 
-const goodreadsURL = 'https://www.goodreads.com/review/list/3644808.xml?key=R5jBSwGrgvsPr96ZozxCg&v=2';
-// fetch(goodreadsURL)
-//   .then(function(response) {
-//     return response.text();
-//   }).then(function(j){
-//     let results = xmlToJson(parser(j));
-//     ReactDOM.render(<Recentbooks books={results.GoodreadsResponse.reviews.review} />, document.getElementById('books'));
-//   });
-// 
-// function jsonCallback(json){
-//   var j = xmlToJson(parser(json))
-//   console.log(j);
-// }
-//
-// $.ajax({
-//   url: goodreadsURL,
-//   dataType: "jsonp"
-// });
+const goodreadsURL = 'https://crossorigin.me/https://www.goodreads.com/review/list/3644808.xml?key=R5jBSwGrgvsPr96ZozxCg&v=2';
+fetch(goodreadsURL)
+  .then(function(response) {
+    return response.text();
+  }).then(function(j){
+    let results = xmlToJson(parser(j));
+    ReactDOM.render(<Recentbooks books={results.GoodreadsResponse.reviews.review} />, document.getElementById('books'));
+  });
