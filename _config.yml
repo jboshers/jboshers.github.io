@@ -4,8 +4,8 @@
 
 # Site
 title: Boshe.rs
-subtitle: Site of Nashville Front-End Developer, Jeff Boshers
-description:
+subtitle: Jeff
+description: I am designer and developer. Most folks call me LunchBox, or LB. I'm a digital creator and maker.
 author: Jeff Boshers
 language: english
 
@@ -72,17 +72,3 @@ deploy:
   type: git
   repo: git@github.com:jboshers/jboshers.github.io.git
   branch: master
-
-webpack:
-  entry: "themes/varg/source/js/varg.js"
-  module:
-    loaders:
-      -
-        test: !!js/regexp /\.js$/
-        exclude: !!js/regexp /node_modules/
-        loader: 'babel'
-        query:
-          presets:
-            - "es2015"
-            - "stage-0"
-            - "react"

@@ -59,10 +59,10 @@ gulp.task('postcss', function () {
       require('postcss-url'),
       require('postcss-cssnext'),
       require('postcss-browser-reporter'),
-      require('postcss-reporter')
+      require('postcss-reporter'),
+      require('cssnano')
     ];
     return gulp.src('./source/css/varg.css')
-        .pipe( sourcemaps.init() )
         .pipe(postcss(processors))
         .pipe( sourcemaps.write('.') )
         .pipe(gulp.dest('../../source/css/'))

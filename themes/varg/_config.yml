@@ -33,3 +33,25 @@ feed:
   type: atom
   path: atom.xml
   limit: 10
+
+js_minifier:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'
+
+webpack:
+  entry: "themes/varg/source/js/varg.js"
+  module:
+    loaders:
+      -
+        test: !!js/regexp /\.js$/
+        exclude: !!js/regexp /node_modules/
+        loader: "babel"
+        query:
+          presets:
+            - "es2015"
+            - "stage-0"
+            - "react"
