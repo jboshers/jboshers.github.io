@@ -37,9 +37,7 @@ var Book = React.createClass({
   }
 });
 
-
-const goodreadsURL = 'https://crossorigin.me/https://www.goodreads.com/review/list/3644808.xml?key=R5jBSwGrgvsPr96ZozxCg&v=2';
-fetch(goodreadsURL)
+fetch('/goodreads.xml')
   .then(function(response) {
     return response.text();
   }).then(function(j){

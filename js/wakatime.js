@@ -32,7 +32,7 @@ class WakaPie extends React.Component {
 
     return (
       <div>
-        <h5 className="modal__title">Where I Spend My Time</h5>
+        <h6 className="modal__title">Where I Spend My Time</h6>
         <ChartistGraph className={'ct-square'} data={this.scrubData()} type={type} options={options} />
       </div>
     )
@@ -41,9 +41,8 @@ class WakaPie extends React.Component {
 
 const wakaURL ='https://crossorigin.me/https://wakatime.com/share/@lunchbox/c0b6070d-856a-472a-b1ac-ed30c691aa86.json';
 
-fetch(wakaURL)
+fetch('/wakatime.json')
   .then(function(response) {
-    console.log('header', response.headers.get('Content-Type'))
     return response.json();
   }).then(function(j){
     ReactDOM.render(<WakaPie languages={j.data} />, document.getElementById('languages'));
