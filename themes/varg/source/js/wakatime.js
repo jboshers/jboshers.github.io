@@ -32,16 +32,16 @@ class WakaPie extends React.Component {
 
     return (
       <div>
-        <h5 className="modal__title">Where I Spend My Time</h5>
+        <h6 className="modal__title">Where I Spend My Time</h6>
         <ChartistGraph className={'ct-square'} data={this.scrubData()} type={type} options={options} />
       </div>
     )
   }
 }
 
-const wakaURL ='https://wakatime.com/share/@lunchbox/81b0c78d-ac76-453b-985b-adaa91721093.json';
+const wakaURL ='https://crossorigin.me/https://wakatime.com/share/@lunchbox/c0b6070d-856a-472a-b1ac-ed30c691aa86.json';
 
-fetch(wakaURL)
+fetch('/wakatime.json')
   .then(function(response) {
     return response.json();
   }).then(function(j){

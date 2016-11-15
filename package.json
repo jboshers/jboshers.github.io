@@ -6,7 +6,9 @@
     "version": "3.2.2"
   },
   "scripts": {
-    "release": "hexo clean && hexo generate && npm run mini && hexo deploy",
+    "release": "hexo clean && hexo generate && npm run getGoodReads && npm run getWakaTime && npm run mini && hexo deploy",
+    "getGoodReads": "node fakeJSON 'http://www.goodreads.com/review/list/3644808.xml?key=R5jBSwGrgvsPr96ZozxCg&v=2' public/goodreads.xml",
+    "getWakaTime": "node fakeJSON 'http://wakatime.com/share/@lunchbox/c0b6070d-856a-472a-b1ac-ed30c691aa86.json' public/wakatime.json",
     "mini": "uglifyjs --compress --mangle --o public/js/varg.js -- public/js/varg.js"
   },
   "dependencies": {
@@ -59,6 +61,7 @@
     "postcss-cssnext": "^2.8.0",
     "postcss-import": "^8.1.2",
     "postcss-reporter": "^1.4.1",
-    "postcss-url": "^5.1.2"
+    "postcss-url": "^5.1.2",
+    "request": "^2.76.0"
   }
 }
