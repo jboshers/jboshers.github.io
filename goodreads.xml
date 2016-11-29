@@ -5,76 +5,7 @@
       <key><![CDATA[R5jBSwGrgvsPr96ZozxCg]]></key>
     <method><![CDATA[review_list]]></method>
   </Request>
-  <reviews start="1" end="20" total="43">
-    <review>
-  <id>1759305310</id>
-    <book>
-  <id type="integer">29227508</id>
-  <isbn nil="true"/>
-  <isbn13 nil="true"/>
-  <text_reviews_count type="integer">50</text_reviews_count>
-  <title>The Destroyer</title>
-  <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-  <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  <large_image_url/>
-  <link>http://www.goodreads.com/book/show/29227508-the-destroyer</link>
-  <num_pages></num_pages>
-  <format></format>
-  <edition_information/>
-  <publisher></publisher>
-  <publication_day></publication_day>
-  <publication_year></publication_year>
-  <publication_month></publication_month>
-  <average_rating>4.09</average_rating>
-  <ratings_count>580</ratings_count>
-  <description>After untold centuries of absence, the evil Ancients have returned. Their magic appears unstoppable and their hunger for conquest is insatiable. To protect the country of Nia, Duchess Nadea and Scholar Paug make a desperate journey to find a human legend: A man known to have destroyed these Ancient foes with a powerful army. &lt;br&gt;&lt;br&gt;But legends can lie. &lt;br&gt;&lt;br&gt;When Paug and Nadea revive their hero from sleep, his virtue is far from clear. &lt;br&gt;&lt;br&gt;Is he really their Savior or their Destroyer?</description>
-<authors>
-<author>
-<id>14789183</id>
-<name>Michael-Scott Earle</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[http://images.gr-assets.com/authors/1457989795p5/14789183.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[http://images.gr-assets.com/authors/1457989795p2/14789183.jpg]]>
-</small_image_url>
-<link><![CDATA[http://www.goodreads.com/author/show/14789183.Michael_Scott_Earle]]></link>
-<average_rating>4.17</average_rating>
-<ratings_count>1137</ratings_count>
-<text_reviews_count>95</text_reviews_count>
-</author>
-</authors>
-  <published></published>
-</book>
-
-
-  <rating>0</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-
-    <shelf name="currently-reading" exclusive="true" review_shelf_id="1423978015" sortable="false" />
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at>Thu Sep 15 20:58:21 -0700 2016</started_at>
-  <read_at></read_at>
-  <date_added>Thu Sep 15 20:58:21 -0700 2016</date_added>
-  <date_updated>Thu Sep 15 20:58:21 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-  </body>
-
-  <comments_count>0</comments_count>
-    <url><![CDATA[http://www.goodreads.com/review/show/1759305310]]></url>
-  <link><![CDATA[http://www.goodreads.com/review/show/1759305310]]></link>
-    <owned>0</owned>
-</review>
-
+  <reviews start="1" end="20" total="42">
     <review>
   <id>1759288418</id>
     <book>
@@ -94,9 +25,9 @@
   <publication_day></publication_day>
   <publication_year></publication_year>
   <publication_month></publication_month>
-  <average_rating>3.91</average_rating>
-  <ratings_count>159</ratings_count>
-  <description>From Bram Stoker Award-nominated publisher, Crystal Lake Publishing, and the editing duo who brought you the best-selling and critically acclaimed small-town Lovecraftian horror anthology Shadows Over Main Street, comes Gutted: Beautiful Horror Stories—&lt;b&gt;a disturbing journey into the beauty that rests inside the very heart of darkness.&lt;/b&gt; &lt;br&gt;&lt;br&gt;Awe meets ache. &lt;br&gt;&lt;br&gt;Terror becomes transcendence. &lt;br&gt;&lt;br&gt;Regret gives way to rebirth. &lt;br&gt;&lt;br&gt;Fifteen short stories and one poem span nearly every twisted corner of the horror and dark fiction genres: &lt;br&gt;&lt;br&gt;A woman experiences an emotional reckoning inside &lt;b&gt;a haunted house.&lt;/b&gt; &lt;br&gt;&lt;br&gt;A father sees his daughter rescued after a cold case is solved, only to learn the tragic limits of his love. &lt;br&gt;&lt;br&gt;A man awakens &lt;b&gt;a vengeful spirit&lt;/b&gt; and learns the terrible price of settling scores. &lt;br&gt;&lt;br&gt;A boy comes of age into awareness of &lt;b&gt;a secret universe&lt;/b&gt; of Lovecraftian scale. &lt;br&gt;&lt;br&gt;A young woman confronts the deathly price of existence inside a German concentration camp during &lt;b&gt;the Holocaust.&lt;/b&gt; &lt;br&gt;&lt;br&gt;And much, much more… &lt;br&gt;&lt;br&gt;Gutted: Beautiful Horror Stories features the most celebrated voices in dark fiction, as well as a number of exciting new talents: &lt;br&gt;&lt;br&gt;&lt;b&gt;Clive Barker, Neil Gaiman, Ramsey Campbell, Paul Tremblay, John F.D. Taff, Lisa Mannetti, Damien Angelica Walters, Josh Malerman, Christopher Coake, Mercedes M. Yardley, Brian Kirk, Stephanie M. Wytovich, Amanda Gowin, Richard Thomas, Maria Alexander and Kevin Lucia. Edited by Doug Murano and D. Alexander Ward.&lt;/b&gt; &lt;br&gt;&lt;br&gt;With a foreword from &lt;b&gt;Cemetery Dance magazine founder Richard Chizmar.&lt;/b&gt; &lt;br&gt;&lt;br&gt;Proudly brought to you by &lt;b&gt;Crystal Lake Publishing.&lt;/b&gt; &lt;br&gt;</description>
+  <average_rating>3.87</average_rating>
+  <ratings_count>183</ratings_count>
+  <description>From Bram Stoker Award-nominated publisher, Crystal Lake Publishing, and the editing duo who brought you the best-selling and critically acclaimed small-town Lovecraftian horror anthology Shadows Over Main Street, comes Gutted: Beautiful Horror Stories—&lt;b&gt;a disturbing journey into the beauty that rests inside the very heart of darkness.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;Awe meets ache. &lt;br /&gt;&lt;br /&gt;Terror becomes transcendence. &lt;br /&gt;&lt;br /&gt;Regret gives way to rebirth. &lt;br /&gt;&lt;br /&gt;Fifteen short stories and one poem span nearly every twisted corner of the horror and dark fiction genres: &lt;br /&gt;&lt;br /&gt;A woman experiences an emotional reckoning inside &lt;b&gt;a haunted house.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;A father sees his daughter rescued after a cold case is solved, only to learn the tragic limits of his love. &lt;br /&gt;&lt;br /&gt;A man awakens &lt;b&gt;a vengeful spirit&lt;/b&gt; and learns the terrible price of settling scores. &lt;br /&gt;&lt;br /&gt;A boy comes of age into awareness of &lt;b&gt;a secret universe&lt;/b&gt; of Lovecraftian scale. &lt;br /&gt;&lt;br /&gt;A young woman confronts the deathly price of existence inside a German concentration camp during &lt;b&gt;the Holocaust.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;And much, much more… &lt;br /&gt;&lt;br /&gt;Gutted: Beautiful Horror Stories features the most celebrated voices in dark fiction, as well as a number of exciting new talents: &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Clive Barker, Neil Gaiman, Ramsey Campbell, Paul Tremblay, John F.D. Taff, Lisa Mannetti, Damien Angelica Walters, Josh Malerman, Christopher Coake, Mercedes M. Yardley, Brian Kirk, Stephanie M. Wytovich, Amanda Gowin, Richard Thomas, Maria Alexander and Kevin Lucia. Edited by Doug Murano and D. Alexander Ward.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;With a foreword from &lt;b&gt;Cemetery Dance magazine founder Richard Chizmar.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;Proudly brought to you by &lt;b&gt;Crystal Lake Publishing.&lt;/b&gt; &lt;br /&gt;</description>
 <authors>
 <author>
 <id>3188378</id>
@@ -109,9 +40,9 @@
 <![CDATA[http://images.gr-assets.com/authors/1476504643p2/3188378.jpg]]>
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/3188378.Doug_Murano]]></link>
-<average_rating>3.95</average_rating>
-<ratings_count>408</ratings_count>
-<text_reviews_count>93</text_reviews_count>
+<average_rating>3.84</average_rating>
+<ratings_count>321</ratings_count>
+<text_reviews_count>68</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -163,10 +94,9 @@
   <publication_day></publication_day>
   <publication_year></publication_year>
   <publication_month></publication_month>
-  <average_rating>3.56</average_rating>
-  <ratings_count>127</ratings_count>
-  <description>&lt;div&gt;
-&lt;i&gt;Best New Horror&lt;/i&gt; combines dozens of the best and grisliest short stories of today. For twenty-five years this series has been published in the United Kingdom as &lt;i&gt;The Mammoth Book of Best New Horror,&lt;/i&gt; and now comes to the US to delight and terrify thriller enthusiasts. This has been the world’s leading annual anthology dedicated solely to showcasing the best in contemporary horror fiction. This newest volume offers outstanding new writing by masters of the genre, such as Joan Aiken, Peter Atkins, Ramsey Campbell, Christopher Fowler, Joe R. Lansdale, John Ajvide Lindqvist, Robert Silverberg, Michael Marshall Smith, Evangeline Walton, and many others!&lt;/div&gt;</description>
+  <average_rating>3.59</average_rating>
+  <ratings_count>130</ratings_count>
+  <description>&lt;div&gt;&lt;i&gt;Best New Horror&lt;/i&gt; combines dozens of the best and grisliest short stories of today. For twenty-five years this series has been published in the United Kingdom as &lt;i&gt;The Mammoth Book of Best New Horror,&lt;/i&gt; and now comes to the US to delight and terrify thriller enthusiasts. This has been the world’s leading annual anthology dedicated solely to showcasing the best in contemporary horror fiction. This newest volume offers outstanding new writing by masters of the genre, such as Joan Aiken, Peter Atkins, Ramsey Campbell, Christopher Fowler, Joe R. Lansdale, John Ajvide Lindqvist, Robert Silverberg, Michael Marshall Smith, Evangeline Walton, and many others!&lt;/div&gt;</description>
 <authors>
 <author>
 <id>6943</id>
@@ -180,8 +110,8 @@
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/6943.Stephen_Jones]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>36052</ratings_count>
-<text_reviews_count>1795</text_reviews_count>
+<ratings_count>36470</ratings_count>
+<text_reviews_count>1841</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -233,8 +163,8 @@
   <publication_day></publication_day>
   <publication_year></publication_year>
   <publication_month></publication_month>
-  <average_rating>4.00</average_rating>
-  <ratings_count>7</ratings_count>
+  <average_rating>3.88</average_rating>
+  <ratings_count>8</ratings_count>
   <description></description>
 <authors>
 <author>
@@ -248,9 +178,9 @@
 <![CDATA[http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/14507869.Justin_Menickelli]]></link>
-<average_rating>3.80</average_rating>
-<ratings_count>10</ratings_count>
-<text_reviews_count>2</text_reviews_count>
+<average_rating>3.73</average_rating>
+<ratings_count>11</ratings_count>
+<text_reviews_count>3</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -317,8 +247,8 @@
 <![CDATA[http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/9790700.Luisa_Wilkins]]></link>
-<average_rating>2.97</average_rating>
-<ratings_count>30</ratings_count>
+<average_rating>2.80</average_rating>
+<ratings_count>25</ratings_count>
 <text_reviews_count>4</text_reviews_count>
 </author>
 </authors>
@@ -358,7 +288,7 @@
   <id type="integer">22286</id>
   <isbn>0976631156</isbn>
   <isbn13>9780976631156</isbn13>
-  <text_reviews_count type="integer">305</text_reviews_count>
+  <text_reviews_count type="integer">310</text_reviews_count>
   <title>Clown Girl</title>
   <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
   <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
@@ -372,7 +302,7 @@
   <publication_year>2007</publication_year>
   <publication_month>1</publication_month>
   <average_rating>3.49</average_rating>
-  <ratings_count>4074</ratings_count>
+  <ratings_count>4104</ratings_count>
   <description>Clown Girl lives in Baloneytown, a seedy neighborhood where drugs, balloon animals, and even rubber chickens contribute to the local currency. Against a backdrop of petty crime, she struggles to live her dreams, calling on cultural masters Charlie Chaplin, Kafka, and da Vinci for inspiration. In an effort to support herself and her layabout performance-artist boyfriend, Clown Girl finds herself unwittingly transformed into a "corporate clown," trapping herself in a cycle of meaningless, high-paid gigs that veer dangerously close to prostitution. Monica Drake has created a novel that riffs on the high comedy of early film stars — most notably Chaplin and W. C. Fields — to raise questions of class, gender, economics, and prejudice. Resisting easy classification, this debut novel blends the bizarre, the humorous, and the gritty with stunning skill.</description>
 <authors>
 <author>
@@ -387,8 +317,8 @@
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/12717.Monica_Drake]]></link>
 <average_rating>3.48</average_rating>
-<ratings_count>4959</ratings_count>
-<text_reviews_count>481</text_reviews_count>
+<ratings_count>4998</ratings_count>
+<text_reviews_count>486</text_reviews_count>
 </author>
 </authors>
   <published>2007</published>
@@ -427,7 +357,7 @@
   <id type="integer">114683</id>
   <isbn>1844137872</isbn>
   <isbn13>9781844137879</isbn13>
-  <text_reviews_count type="integer">581</text_reviews_count>
+  <text_reviews_count type="integer">597</text_reviews_count>
   <title>Wall and Piece</title>
   <image_url>http://images.gr-assets.com/books/1327904853m/114683.jpg</image_url>
   <small_image_url>http://images.gr-assets.com/books/1327904853s/114683.jpg</small_image_url>
@@ -441,8 +371,8 @@
   <publication_year>2006</publication_year>
   <publication_month/>
   <average_rating>3.83</average_rating>
-  <ratings_count>128751</ratings_count>
-  <description>Banksy, Britain's now-legendary "guerilla" street artist, has painted the walls, streets, and bridges of towns and cities throughout the world. Not only did he smuggle his pieces into four of  New York City's major art museums, he's also "hung" his work at London's Tate Gallery and adorned Israel's West Bank barrier with satirical images. Banksy's identity remains unknown, but his work is unmistakable—with prints selling for as much as $45,000.</description>
+  <ratings_count>130725</ratings_count>
+  <description>Artistic genius, political activist, painter and decorator, mythic legend or notorious graffiti artist? The work of Banksy is unmistakable, except maybe when it's squatting in the Tate or New York's Metropolitan Museum. Banksy is responsible for decorating the streets, walls, bridges and zoos of towns and cites throughout the world.&lt;br /&gt;&lt;br /&gt;Witty and subversive, his stencils show monkeys with weapons of mass destruction, policeman with smiley faces, rats with drills and umbrellas.If you look hard enough you'll find your own. His statements, incitements, ironies and epigrams are by turns intelligent and cheeky comments on everything from the monarchy and capitalism to the war in Iraq and farm animals.&lt;br /&gt;&lt;br /&gt;His identity remains unknown, but his work is prolific. Here's the best of his work in a fully illustrated colour volume - including brand material.</description>
 <authors>
 <author>
 <id>28811</id>
@@ -456,8 +386,8 @@
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/28811.Banksy]]></link>
 <average_rating>3.84</average_rating>
-<ratings_count>132314</ratings_count>
-<text_reviews_count>691</text_reviews_count>
+<ratings_count>134310</ratings_count>
+<text_reviews_count>713</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -509,8 +439,8 @@
   <publication_day></publication_day>
   <publication_year></publication_year>
   <publication_month></publication_month>
-  <average_rating>4.00</average_rating>
-  <ratings_count>4</ratings_count>
+  <average_rating>3.43</average_rating>
+  <ratings_count>7</ratings_count>
   <description></description>
 <authors>
 <author>
@@ -524,8 +454,8 @@
 <![CDATA[http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/8620720.Alex_Castle]]></link>
-<average_rating>3.46</average_rating>
-<ratings_count>151</ratings_count>
+<average_rating>3.43</average_rating>
+<ratings_count>134</ratings_count>
 <text_reviews_count>7</text_reviews_count>
 </author>
 </authors>
@@ -634,7 +564,7 @@
   <id type="integer">29164065</id>
   <isbn nil="true"/>
   <isbn13 nil="true"/>
-  <text_reviews_count type="integer">22</text_reviews_count>
+  <text_reviews_count type="integer">27</text_reviews_count>
   <title>Norse Mythology: A Concise Guide to Gods, Heroes, Sagas and Beliefs of Norse Mythology (Greek Mythology - Norse Mythology - Egyptian Mythology Book 2)</title>
   <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
   <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
@@ -647,8 +577,8 @@
   <publication_day></publication_day>
   <publication_year></publication_year>
   <publication_month></publication_month>
-  <average_rating>3.63</average_rating>
-  <ratings_count>164</ratings_count>
+  <average_rating>3.62</average_rating>
+  <ratings_count>177</ratings_count>
   <description></description>
 <authors>
 <author>
@@ -662,9 +592,9 @@
 <![CDATA[http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/1065696.Robert_Carlson]]></link>
-<average_rating>3.63</average_rating>
-<ratings_count>330</ratings_count>
-<text_reviews_count>52</text_reviews_count>
+<average_rating>3.60</average_rating>
+<ratings_count>361</ratings_count>
+<text_reviews_count>57</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -717,8 +647,8 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>4.16</average_rating>
-  <ratings_count>7194</ratings_count>
-  <description>The Prose Edda, also known as the Younger Edda, Snorri's Edda (Icelandic: Snorra Edda) or simply Edda, is the most renowned of all works of Scandinavian literature and our most extensive source for Norse mythology. Written in Iceland a century after the close of the Viking Age, it tells ancient stories of the Norse creation epic and recounts the battles that follow as gods, giants, dwarves and elves struggle for survival. It also preserves the oral memory of heroes, warrior kings and queens. &lt;br&gt;In clear prose interspersed with powerful verse, the Edda provides unparalleled insight into the gods' tragic realization that the future holds one final cataclysmic battle, Ragnarok, when the world will be destroyed. &lt;br&gt;&lt;br&gt;These tales have proved to be among the most influential of all myths and legends, inspiring modern works as diverse as Wagner's Ring Cycle and Tolkien's ‘The Lord of the Rings.’ Together with the Poetic Edda, the Prose Edda comprises the major store of pagan Scandinavian mythology. The work is often assumed to have been written, or at least compiled, by the Icelandic scholar and historian Snorri Sturluson around the year 1220. &lt;br&gt;&lt;br&gt;This enhanced E-book edition includes - for the first time - a fully revised and reformatted version of the famous Arthur Brodeur translation from 1916 fully optimized for the Kindle. There is also an image gallery showcasing art inspired by the Edda from Lorenz Frølich, W.G. Collingwood, Georg von Rosen, Elmer Boyd Smith and other renowned artists. &lt;br&gt;&lt;br&gt;*Text optimized for E-readers. &lt;br&gt;*Illustrations. &lt;br&gt;*Links to free complete audio recordings of all three books. &lt;br&gt;*Individual Table of Contents for each book accessible from the Kindle "go to" feature. &lt;br&gt;*Perfect formatting in rich text compatible with Kindle's Text-to-Speech features. &lt;br&gt;&lt;br&gt;&lt;br&gt;</description>
+  <ratings_count>7262</ratings_count>
+  <description>The Prose Edda, also known as the Younger Edda, Snorri's Edda (Icelandic: Snorra Edda) or simply Edda, is the most renowned of all works of Scandinavian literature and our most extensive source for Norse mythology. Written in Iceland a century after the close of the Viking Age, it tells ancient stories of the Norse creation epic and recounts the battles that follow as gods, giants, dwarves and elves struggle for survival. It also preserves the oral memory of heroes, warrior kings and queens. &lt;br /&gt;In clear prose interspersed with powerful verse, the Edda provides unparalleled insight into the gods' tragic realization that the future holds one final cataclysmic battle, Ragnarok, when the world will be destroyed. &lt;br /&gt;&lt;br /&gt;These tales have proved to be among the most influential of all myths and legends, inspiring modern works as diverse as Wagner's Ring Cycle and Tolkien's ‘The Lord of the Rings.’ Together with the Poetic Edda, the Prose Edda comprises the major store of pagan Scandinavian mythology. The work is often assumed to have been written, or at least compiled, by the Icelandic scholar and historian Snorri Sturluson around the year 1220. &lt;br /&gt;&lt;br /&gt;This enhanced E-book edition includes - for the first time - a fully revised and reformatted version of the famous Arthur Brodeur translation from 1916 fully optimized for the Kindle. There is also an image gallery showcasing art inspired by the Edda from Lorenz Frølich, W.G. Collingwood, Georg von Rosen, Elmer Boyd Smith and other renowned artists. &lt;br /&gt;&lt;br /&gt;*Text optimized for E-readers. &lt;br /&gt;*Illustrations. &lt;br /&gt;*Links to free complete audio recordings of all three books. &lt;br /&gt;*Individual Table of Contents for each book accessible from the Kindle "go to" feature. &lt;br /&gt;*Perfect formatting in rich text compatible with Kindle's Text-to-Speech features. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
 <authors>
 <author>
 <id>13879</id>
@@ -732,8 +662,8 @@
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/13879.Snorri_Sturluson]]></link>
 <average_rating>4.14</average_rating>
-<ratings_count>9415</ratings_count>
-<text_reviews_count>372</text_reviews_count>
+<ratings_count>9484</ratings_count>
+<text_reviews_count>378</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -785,8 +715,8 @@
   <publication_day/>
   <publication_year/>
   <publication_month/>
-  <average_rating>3.73</average_rating>
-  <ratings_count>538</ratings_count>
+  <average_rating>3.74</average_rating>
+  <ratings_count>548</ratings_count>
   <description>Nights were long in Iceland winters of long ago. A whole family sat for hours around the fire in the middle of the room. That fire gave the only light. Shadows flitted in the dark corners. Smoke curled along the high beams of the ceiling. The children sat on the dirt floor close by the fire. The grown people were on a long narrow bench that they had pulled up to the light and warmth. Everybody's hands were busy with wool. As the family worked in the red fire-light, the father told of the kings of Norway, of long voyages to strange lands, of good fights. And in farmhouses all through Iceland these old tales were told over and over until everybody knew them and loved them. Men who could sing and play the harp were called "skalds," and they called their songs "sagas." Eventually these stories were written down on sheepskin or vellum so that we can enjoy them today. We follow the fortunes of Harald from the time he is acknowledged by his father as a baby and given his own thrall at the cutting of his first tooth, through his exploits as a viking adventurer, to his crowning as King of Norway. It is when Harald is King of Norway that population pressures at home and eagerness for adventure and booty from other lands combine to drive some of the bolder Vikings to set forth from their native land. Sailing ever westward across the Atlantic, they hop along the chain of islands that loosely connects Norway with America-Orkneys and Shetlands, Faeroes, Iceland, and Greenland. It is from link to link of this chain that the characters in our story sail in search of home and adventure. Discoveries are made by accident. Ships are driven by the wind into unknown ports, resulting in landings and settlements in Iceland, Greenland, and America. The crude courage of these men and strangeness of their adventures appeal strongly to children, while their love of truth, hardy endurance, and faithfulness to the promised word make them characters to emulate. Suitable for children ages 9 and up to read to themselves and for children as young as 6 as a read-aloud.</description>
 <authors>
 <author>
@@ -800,8 +730,8 @@
 <![CDATA[http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/327706.Jennie_Hall]]></link>
-<average_rating>3.75</average_rating>
-<ratings_count>636</ratings_count>
+<average_rating>3.76</average_rating>
+<ratings_count>640</ratings_count>
 <text_reviews_count>45</text_reviews_count>
 </author>
 </authors>
@@ -841,7 +771,7 @@
   <id type="integer">18626815</id>
   <isbn nil="true"/>
   <isbn13 nil="true"/>
-  <text_reviews_count type="integer">679</text_reviews_count>
+  <text_reviews_count type="integer">688</text_reviews_count>
   <title>Wool Omnibus Edition (Silo, #1; Wool, #1-5)</title>
   <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
   <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
@@ -855,8 +785,8 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>4.24</average_rating>
-  <ratings_count>108668</ratings_count>
-  <description>This Omnibus Edition collects the five Wool books into a single volume. It is for those who arrived late to the party and who wish to save a dollar or two while picking up the same stories in a single package.&lt;br&gt;The first Wool story was released as a standalone short in July of 2011. Due to reviewer demand, the rest of the story was released over the next six months. My thanks go out to those reviewers who clamored for more. Without you, none of this would exist. Your demand created this as much as I did.&lt;br&gt;This is the story of mankind clawing for survival, of mankind on the edge. The world outside has grown unkind, the view of it limited, talk of it forbidden. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they profess to want: They are allowed outside.</description>
+  <ratings_count>109642</ratings_count>
+  <description>This Omnibus Edition collects the five Wool books into a single volume. It is for those who arrived late to the party and who wish to save a dollar or two while picking up the same stories in a single package.&lt;br /&gt;The first Wool story was released as a standalone short in July of 2011. Due to reviewer demand, the rest of the story was released over the next six months. My thanks go out to those reviewers who clamored for more. Without you, none of this would exist. Your demand created this as much as I did.&lt;br /&gt;This is the story of mankind clawing for survival, of mankind on the edge. The world outside has grown unkind, the view of it limited, talk of it forbidden. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they profess to want: They are allowed outside.</description>
 <authors>
 <author>
 <id>3064305</id>
@@ -870,8 +800,8 @@
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/3064305.Hugh_Howey]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>405129</ratings_count>
-<text_reviews_count>31117</text_reviews_count>
+<ratings_count>409775</ratings_count>
+<text_reviews_count>31488</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -924,8 +854,8 @@
   <publication_year>2011</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.06</average_rating>
-  <ratings_count>176</ratings_count>
-  <description>&lt;i&gt;The Total Outdoorsman Manual&lt;/i&gt; is the ultimate guide book for the outdoors enthusiast, packed with hundreds of practical tips and techniques from T. Edward Nickens and the experts at &lt;i&gt;Field &amp;amp; Stream&lt;/i&gt; magazine, that is guaranteed to improve your hunting, fishing, camping and survival skills.&lt;br&gt;&lt;br&gt;With practical information for both the beginner and advanced outdoorsman, the book is an authoritative, comprehensive, and entertaining guide that will enable anyone to master the outdoors and hunt, fish, and camp like an expert.&lt;br&gt;&lt;br&gt;&lt;b&gt;HUNT BETTER&lt;/b&gt; How to track a buck, make the toughest shots, master bowhunting and knife skills, and haul, butcher, and cook wild game.&lt;br&gt;&lt;b&gt;FISH SMARTER&lt;/b&gt; Advice on the best techniques for flyfishing, baitcasting, and spinning, as well as surefire ways to get the most out of your motorboat, canoe, or kayak. &lt;br&gt;&lt;b&gt;SURVIVE ANYTHING&lt;/b&gt; Whether you fall through thick ice, are swept away by a raging river, or have a stare down with an angry bear, these skills means the difference between life and death.&lt;br&gt;&lt;b&gt;CAMP ANYWHERE&lt;/b&gt; Tested and proven expert tips to help you stay warm, eat well, and build a fire in any situation in record time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Field &amp;amp; Stream&lt;/b&gt; For more than 100 years, &lt;i&gt;Field &amp;amp; Stream&lt;/i&gt; magazine has provided expert advice on every aspect of the outdoor life, including hunting, fishing, conservation, and wilderness survival. The magazine's annual Total Outdoorsman issue is one of its most popular, read by over nine million sporting enthusiasts. &lt;br&gt;&lt;br&gt;&lt;b&gt;The Total Outdoorsman Challenge&lt;/b&gt; brings together avid hunters and anglers from around the country to demonstrate their skills and compete for big bucks and bigger glory. Winners are all-around hunters, fishermen, and survivors with a flair for problem-solving and the skills to prevail.</description>
+  <ratings_count>181</ratings_count>
+  <description>&lt;i&gt;The Total Outdoorsman Manual&lt;/i&gt; is the ultimate guide book for the outdoors enthusiast, packed with hundreds of practical tips and techniques from T. Edward Nickens and the experts at &lt;i&gt;Field &amp;amp; Stream&lt;/i&gt; magazine, that is guaranteed to improve your hunting, fishing, camping and survival skills.&lt;br /&gt;&lt;br /&gt;With practical information for both the beginner and advanced outdoorsman, the book is an authoritative, comprehensive, and entertaining guide that will enable anyone to master the outdoors and hunt, fish, and camp like an expert.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;HUNT BETTER&lt;/b&gt; How to track a buck, make the toughest shots, master bowhunting and knife skills, and haul, butcher, and cook wild game.&lt;br /&gt;&lt;b&gt;FISH SMARTER&lt;/b&gt; Advice on the best techniques for flyfishing, baitcasting, and spinning, as well as surefire ways to get the most out of your motorboat, canoe, or kayak. &lt;br /&gt;&lt;b&gt;SURVIVE ANYTHING&lt;/b&gt; Whether you fall through thick ice, are swept away by a raging river, or have a stare down with an angry bear, these skills means the difference between life and death.&lt;br /&gt;&lt;b&gt;CAMP ANYWHERE&lt;/b&gt; Tested and proven expert tips to help you stay warm, eat well, and build a fire in any situation in record time.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Field &amp;amp; Stream&lt;/b&gt; For more than 100 years, &lt;i&gt;Field &amp;amp; Stream&lt;/i&gt; magazine has provided expert advice on every aspect of the outdoor life, including hunting, fishing, conservation, and wilderness survival. The magazine's annual Total Outdoorsman issue is one of its most popular, read by over nine million sporting enthusiasts. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;The Total Outdoorsman Challenge&lt;/b&gt; brings together avid hunters and anglers from around the country to demonstrate their skills and compete for big bucks and bigger glory. Winners are all-around hunters, fishermen, and survivors with a flair for problem-solving and the skills to prevail.</description>
 <authors>
 <author>
 <id>4740519</id>
@@ -939,8 +869,8 @@
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/4740519.T_Edward_Nickens]]></link>
 <average_rating>3.99</average_rating>
-<ratings_count>476</ratings_count>
-<text_reviews_count>84</text_reviews_count>
+<ratings_count>478</ratings_count>
+<text_reviews_count>85</text_reviews_count>
 </author>
 </authors>
   <published>2011</published>
@@ -981,8 +911,8 @@
   <isbn13>9781449433253</isbn13>
   <text_reviews_count type="integer">20</text_reviews_count>
   <title>The Complete Calvin and Hobbes</title>
-  <image_url>http://images.gr-assets.com/books/1353320766m/15802147.jpg</image_url>
-  <small_image_url>http://images.gr-assets.com/books/1353320766s/15802147.jpg</small_image_url>
+  <image_url>http://images.gr-assets.com/books/1479158198m/15802147.jpg</image_url>
+  <small_image_url>http://images.gr-assets.com/books/1479158198s/15802147.jpg</small_image_url>
   <large_image_url/>
   <link>http://www.goodreads.com/book/show/15802147-the-complete-calvin-and-hobbes</link>
   <num_pages>1456</num_pages>
@@ -993,8 +923,8 @@
   <publication_year>2012</publication_year>
   <publication_month>11</publication_month>
   <average_rating>4.82</average_rating>
-  <ratings_count>28439</ratings_count>
-  <description>Join &lt;i&gt;Calvin and Hobbes&lt;/i&gt; on all their adventures in this three-volume collection of every comic strip from the comic strip’s eleven year history (1985 to1996).&lt;br&gt;&lt;br&gt;&lt;i&gt;Calvin and Hobbes&lt;/i&gt; is unquestionably one of the most popular comic strips of all time. The imaginative world of a boy and his real-only-to-him tiger was first syndicated in 1985 and appeared in more than 2,400 newspapers when Bill Watterson retired on January 1, 1996. The entire body of &lt;i&gt;Calvin and Hobbes&lt;/i&gt; cartoons published in a truly noteworthy tribute to this singular cartoon in &lt;i&gt;The Complete Calvin and Hobbes&lt;/i&gt;. Composed of three hardcover, four-color volumes in a sturdy slipcase, this &lt;i&gt;New York Times&lt;/i&gt; best-selling edition includes all &lt;i&gt;Calvin and Hobbes&lt;/i&gt; cartoons that ever appeared in syndication. This is the treasure that all &lt;i&gt;Calvin and Hobbes&lt;/i&gt; fans seek.&lt;br&gt;  </description>
+  <ratings_count>28585</ratings_count>
+  <description>Join &lt;i&gt;Calvin and Hobbes&lt;/i&gt; on all their adventures in this three-volume collection of every comic strip from the comic strip’s eleven year history (1985 to1996).&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Calvin and Hobbes&lt;/i&gt; is unquestionably one of the most popular comic strips of all time. The imaginative world of a boy and his real-only-to-him tiger was first syndicated in 1985 and appeared in more than 2,400 newspapers when Bill Watterson retired on January 1, 1996. The entire body of &lt;i&gt;Calvin and Hobbes&lt;/i&gt; cartoons published in a truly noteworthy tribute to this singular cartoon in &lt;i&gt;The Complete Calvin and Hobbes&lt;/i&gt;. Composed of three hardcover, four-color volumes in a sturdy slipcase, this &lt;i&gt;New York Times&lt;/i&gt; best-selling edition includes all &lt;i&gt;Calvin and Hobbes&lt;/i&gt; cartoons that ever appeared in syndication. This is the treasure that all &lt;i&gt;Calvin and Hobbes&lt;/i&gt; fans seek.&lt;br /&gt;  </description>
 <authors>
 <author>
 <id>13778</id>
@@ -1008,8 +938,8 @@
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/13778.Bill_Watterson]]></link>
 <average_rating>4.67</average_rating>
-<ratings_count>474436</ratings_count>
-<text_reviews_count>5372</text_reviews_count>
+<ratings_count>477153</ratings_count>
+<text_reviews_count>5543</text_reviews_count>
 </author>
 </authors>
   <published>2012</published>
@@ -1062,7 +992,7 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>3.69</average_rating>
-  <ratings_count>118</ratings_count>
+  <ratings_count>122</ratings_count>
   <description></description>
 <authors>
 <author>
@@ -1076,9 +1006,9 @@
 <![CDATA[http://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/6066742.Joanna_Jast]]></link>
-<average_rating>3.72</average_rating>
-<ratings_count>120</ratings_count>
-<text_reviews_count>15</text_reviews_count>
+<average_rating>3.69</average_rating>
+<ratings_count>122</ratings_count>
+<text_reviews_count>16</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -1130,8 +1060,8 @@
   <publication_day></publication_day>
   <publication_year></publication_year>
   <publication_month></publication_month>
-  <average_rating>3.80</average_rating>
-  <ratings_count>5</ratings_count>
+  <average_rating>4.00</average_rating>
+  <ratings_count>6</ratings_count>
   <description></description>
 <authors>
 <author>
@@ -1145,9 +1075,9 @@
 <![CDATA[http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/1881457.Joanna_Jackson]]></link>
-<average_rating>3.87</average_rating>
-<ratings_count>77</ratings_count>
-<text_reviews_count>12</text_reviews_count>
+<average_rating>3.71</average_rating>
+<ratings_count>52</ratings_count>
+<text_reviews_count>3</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -1186,7 +1116,7 @@
   <id type="integer">8704823</id>
   <isbn nil="true"/>
   <isbn13 nil="true"/>
-  <text_reviews_count type="integer">259</text_reviews_count>
+  <text_reviews_count type="integer">263</text_reviews_count>
   <title>Slaughterhouse-Five</title>
   <image_url>http://images.gr-assets.com/books/1335834458m/8704823.jpg</image_url>
   <small_image_url>http://images.gr-assets.com/books/1335834458s/8704823.jpg</small_image_url>
@@ -1199,9 +1129,9 @@
   <publication_day>1</publication_day>
   <publication_year>2010</publication_year>
   <publication_month>7</publication_month>
-  <average_rating>4.04</average_rating>
-  <ratings_count>823413</ratings_count>
-  <description>&lt;i&gt;Alternate-Cover Edition for this ASIN can be found &lt;a href="https://www.goodreads.com/book/show/26201507-slaughterhouse-five"&gt;here&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Slaughterhouse-Five&lt;/i&gt; is the story of Billy Pilgrim, an ill-trained American soldier and his experience in World War II&lt;/b&gt;&lt;br&gt;&lt;br&gt;War is inevitable, and it is absurd. The main theme of the book focuses on this. Billy Pilgrim is a prisoner-of-war at the hands of the Germans. He is captured and put in a disused slaughterhouse, which eventually proves to be a safe ‘shelter’ when his life is spared during the bombing of Dresden.&lt;br&gt;&lt;br&gt;Billy is a fatalist. Barely out of childhood, his lack of enthusiasm for war and the eventual consequences of the war on his life is what makes up the story of Billy’s life. Vonnegut uses Billy to show that war is unnecessarily glorified, due to which people overlook the real tragedies and trauma that war actually brings with it.&lt;br&gt;&lt;br&gt;Billy’s journey through time and space, his accounts of the bombing at Dresden, and his life as a prisoner of war, all highlight the central theme in the novel, war is nothing but another form of hell. Dark humour and irony is what makes &lt;i&gt;Slaughterhouse-Five&lt;/i&gt; unique and a perfect example of creative accomplishment. It conveys the bitterness of war, while providing comic relief along with crucial understanding of the working of the human mind.&lt;/i&gt;</description>
+  <average_rating>4.05</average_rating>
+  <ratings_count>829473</ratings_count>
+  <description>&lt;i&gt;Alternate-Cover Edition for this ASIN can be found &lt;a href="https://www.goodreads.com/book/show/26201507-slaughterhouse-five"&gt;here&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;i&gt;Slaughterhouse-Five&lt;/i&gt; is the story of Billy Pilgrim, an ill-trained American soldier and his experience in World War II&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;War is inevitable, and it is absurd. The main theme of the book focuses on this. Billy Pilgrim is a prisoner-of-war at the hands of the Germans. He is captured and put in a disused slaughterhouse, which eventually proves to be a safe ‘shelter’ when his life is spared during the bombing of Dresden.&lt;br /&gt;&lt;br /&gt;Billy is a fatalist. Barely out of childhood, his lack of enthusiasm for war and the eventual consequences of the war on his life is what makes up the story of Billy’s life. Vonnegut uses Billy to show that war is unnecessarily glorified, due to which people overlook the real tragedies and trauma that war actually brings with it.&lt;br /&gt;&lt;br /&gt;Billy’s journey through time and space, his accounts of the bombing at Dresden, and his life as a prisoner of war, all highlight the central theme in the novel, war is nothing but another form of hell. Dark humour and irony is what makes &lt;i&gt;Slaughterhouse-Five&lt;/i&gt; unique and a perfect example of creative accomplishment. It conveys the bitterness of war, while providing comic relief along with crucial understanding of the working of the human mind.&lt;/i&gt;</description>
 <authors>
 <author>
 <id>2778055</id>
@@ -1215,8 +1145,8 @@
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/2778055.Kurt_Vonnegut]]></link>
 <average_rating>4.04</average_rating>
-<ratings_count>1837184</ratings_count>
-<text_reviews_count>53942</text_reviews_count>
+<ratings_count>1850075</ratings_count>
+<text_reviews_count>55171</text_reviews_count>
 </author>
 </authors>
   <published>2010</published>
@@ -1255,7 +1185,7 @@
   <id type="integer">27398166</id>
   <isbn nil="true"/>
   <isbn13>9781937557287</isbn13>
-  <text_reviews_count type="integer">2</text_reviews_count>
+  <text_reviews_count type="integer">3</text_reviews_count>
   <title>Designing for Touch</title>
   <image_url>http://images.gr-assets.com/books/1446272691m/27398166.jpg</image_url>
   <small_image_url>http://images.gr-assets.com/books/1446272691s/27398166.jpg</small_image_url>
@@ -1269,7 +1199,7 @@
   <publication_year>2015</publication_year>
   <publication_month>10</publication_month>
   <average_rating>4.00</average_rating>
-  <ratings_count>36</ratings_count>
+  <ratings_count>40</ratings_count>
   <description></description>
 <authors>
 <author>
@@ -1284,8 +1214,8 @@
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/2831083.Josh_Clark]]></link>
 <average_rating>3.95</average_rating>
-<ratings_count>505</ratings_count>
-<text_reviews_count>51</text_reviews_count>
+<ratings_count>507</ratings_count>
+<text_reviews_count>54</text_reviews_count>
 </author>
 </authors>
   <published>2015</published>
@@ -1337,8 +1267,8 @@
   <publication_day/>
   <publication_year>2013</publication_year>
   <publication_month>10</publication_month>
-  <average_rating>3.50</average_rating>
-  <ratings_count>14</ratings_count>
+  <average_rating>3.53</average_rating>
+  <ratings_count>15</ratings_count>
   <description>You can't manage projects in creative agencies the same way as 10 years ago. This book tells you where it goes wrong, offers alternative approaches, and illustrates them with a number of case studies. Next to agile, lean, scrum and kanban, you will also read about gamestorming, John Cleese, Ai Weiwei, Dan Pink and rock bands.</description>
 <authors>
 <author>
@@ -1352,8 +1282,8 @@
 <![CDATA[http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
 </small_image_url>
 <link><![CDATA[http://www.goodreads.com/author/show/7337800.Bart_Vermijlen]]></link>
-<average_rating>3.50</average_rating>
-<ratings_count>14</ratings_count>
+<average_rating>3.53</average_rating>
+<ratings_count>15</ratings_count>
 <text_reviews_count>3</text_reviews_count>
 </author>
 </authors>
@@ -1384,6 +1314,75 @@
   <comments_count>0</comments_count>
     <url><![CDATA[http://www.goodreads.com/review/show/1177507214]]></url>
   <link><![CDATA[http://www.goodreads.com/review/show/1177507214]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>319008322</id>
+    <book>
+  <id type="integer">14743</id>
+  <isbn>0618680004</isbn>
+  <isbn13>9780618680009</isbn13>
+  <text_reviews_count type="integer">5257</text_reviews_count>
+  <title>The God Delusion</title>
+  <image_url>http://images.gr-assets.com/books/1347220693m/14743.jpg</image_url>
+  <small_image_url>http://images.gr-assets.com/books/1347220693s/14743.jpg</small_image_url>
+  <large_image_url/>
+  <link>http://www.goodreads.com/book/show/14743.The_God_Delusion</link>
+  <num_pages>374</num_pages>
+  <format></format>
+  <edition_information>First American Edition</edition_information>
+  <publisher>Houghton Mifflin Co. (Boston/NY)</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>161953</ratings_count>
+  <description>A preeminent scientist -- and the world's most prominent atheist -- asserts the irrationality of belief in God and the grievous harm religion has inflicted on society, from the Crusades to 9/11.&lt;br /&gt;&lt;br /&gt;With rigor and wit, Dawkins examines God in all his forms, from the sex-obsessed tyrant of the Old Testament to the more benign (but still illogical) Celestial Watchmaker favored by some Enlightenment thinkers. He eviscerates the major arguments for religion and demonstrates the supreme improbability of a supreme being. He shows how religion fuels war, foments bigotry, and abuses children, buttressing his points with historical and contemporary evidence. The God Delusion makes a compelling case that belief in God is not just wrong but potentially deadly. It also offers exhilarating insight into the advantages of atheism to the individual and society, not the least of which is a clearer, truer appreciation of the universe's wonders than any faith could ever muster.</description>
+<authors>
+<author>
+<id>1194</id>
+<name>Richard Dawkins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[http://images.gr-assets.com/authors/1377030297p5/1194.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[http://images.gr-assets.com/authors/1377030297p2/1194.jpg]]>
+</small_image_url>
+<link><![CDATA[http://www.goodreads.com/author/show/1194.Richard_Dawkins]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>420888</ratings_count>
+<text_reviews_count>15995</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 10 13:06:29 -0800 2016</read_at>
+  <date_added>Wed Apr 25 19:49:09 -0700 2012</date_added>
+  <date_updated>Sun Jan 10 13:06:29 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+  </body>
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[http://www.goodreads.com/review/show/319008322]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/319008322]]></link>
     <owned>0</owned>
 </review>
 

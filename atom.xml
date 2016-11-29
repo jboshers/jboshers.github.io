@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://boshe.rs/"/>
-  <updated>2016-10-14T02:59:21.000Z</updated>
+  <updated>2016-11-29T03:42:30.000Z</updated>
   <id>http://boshe.rs/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Useful Chrome Plugins</title>
+    <link href="http://boshe.rs/useful-chrome-plugins/"/>
+    <id>http://boshe.rs/useful-chrome-plugins/</id>
+    <published>2016-11-29T02:36:48.000Z</published>
+    <updated>2016-11-29T03:42:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Chrome is my default browser. I use it daily. I wanted to make a small list of the plugins (extensions) that I use to make my developer life a bit easier.</p>
+<h2 id="uBlock-Origin"><a href="#uBlock-Origin" class="headerlink" title="uBlock Origin"></a>uBlock Origin</h2><img src="/useful-chrome-plugins/ublock.png" class="fl-l sp-a" width="150" height="150" title="ublock logo">
+<p>Almost everyone uses a blocker these days. Most blockers are bulky and are memory hogs. I’ve been using this plugin for awhile and have been very happy with it. <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en" target="_blank" rel="external">uBlock Origin</a></p>
+<h2 id="Postman"><a href="#Postman" class="headerlink" title="Postman"></a>Postman</h2><img src="/useful-chrome-plugins/postman.png" class="fl-l sp-a" width="150" height="150" title="postman logo">
+<p>The web is built on the back of rest services.  Using Postman, I can test different endpoints and see the shape of the data coming back from the rest service.  While this is technically more of an app than a plugin, it is a very valuable tool regardless. <a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop" target="_blank" rel="external">Postman</a></p>
+<h2 id="Refined-Github"><a href="#Refined-Github" class="headerlink" title="Refined Github"></a>Refined Github</h2><img src="/img/default-thumbnail.png" class="fl-l sp-a" width="150" height="150" title="default wolf logo">
+<p>Like most developers, I spend a crazy amount of my time on github. Github is crazy powerful but if you don’t know the shortcuts, you can miss out on some of the power. This plugin makes surfaces a lot of the niceties of github. <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf" target="_blank" rel="external">Refined Github</a></p>
+<h2 id="Pocket"><a href="#Pocket" class="headerlink" title="Pocket"></a>Pocket</h2><img src="/useful-chrome-plugins/pocket.png" class="fl-l sp-a" width="150" height="150" title="pocket logo">
+<p>I save articles for later to read or to share with my team. Simple but valuable. <a href="https://chrome.google.com/webstore/detail/pocket/mjcnijlhddpbdemagnpefmlkjdagkogk" target="_blank" rel="external">Pocket</a></p>
+<h2 id="Momentum"><a href="#Momentum" class="headerlink" title="Momentum"></a>Momentum</h2><img src="/useful-chrome-plugins/momentum.png" class="fl-l sp-a" width="150" height="150" title="momentum logo">
+<p>Just a nice splash screen with the time and a todo list if you want. Helps me stay focused. <a href="https://chrome.google.com/webstore/detail/laookkfknpbbblfpciffpaejjkokdgca" target="_blank" rel="external">Momentum</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      Chrome is my default browser. I use it daily. I wanted to make a small list of the plugins (extensions) that I use to make my developer life a bit easier.
+    
+    </summary>
+    
+    
+      <category term="chrome" scheme="http://boshe.rs/tags/chrome/"/>
+    
+      <category term="browser" scheme="http://boshe.rs/tags/browser/"/>
+    
+      <category term="lists" scheme="http://boshe.rs/tags/lists/"/>
+    
+  </entry>
   
   <entry>
     <title>Building a Standing Desk</title>
