@@ -8,7 +8,7 @@ import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/articles/post-title'
 import markdownToHtml from '../../lib/markdownToHtml'
 
-export default function Post({ post, morePosts }) {
+export default function Post({ post }) {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
@@ -31,7 +31,6 @@ export default function Post({ post, morePosts }) {
                 title={post.title}
                 coverImage={post.coverImage}
                 date={post.date}
-                author={post.author}
               />
               <PostBody content={post.content} />
             </div>
