@@ -2,9 +2,10 @@ import React from 'react';
 import styles from './intro.module.css'
 import {things, whos } from '../../utils/madlibs'
 import {randomNumber} from '../../utils/utils'
+import { IntroState } from '../../interfaces'
 
-
-class Intro extends React.Component {
+class Intro extends React.Component<{}, IntroState> {
+  interval: any;
   constructor(props) {
     super(props);
     this.state = { thing: things[0], who: whos[0], for: whos[0] };

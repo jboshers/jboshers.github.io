@@ -1,8 +1,10 @@
 import React from 'react';
 import styles from './index.module.css'
 import moment from 'moment'
+import { LevelState } from '../../../interfaces'
 
-class Level extends React.Component {
+class Level extends React.Component<{}, LevelState> {
+  interval: NodeJS.Timeout;
   constructor(props) {
     super(props)
     this.state = {
