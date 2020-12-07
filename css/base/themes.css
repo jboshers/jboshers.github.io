@@ -1,0 +1,24 @@
+.theme__soft-orange {
+    background-color: var(--color-soft-orange);
+    color: #b06c01;
+  }
+
+  .theme__soft-pink {
+    background-color: var(--color-soft-pink);
+    color: #b00144;
+  }
+
+  .theme__soft-lime {
+    background-color: var(--color-soft-lime);
+    color: #01b06c;
+  }
+
+  .theme__soft-blue{
+    background-color: var(--color-soft-blue);
+    color: #0144b0;
+  }
+
+  .theme__soft-cyan {
+    background-color: var(--color-soft-cyan);
+    color: #019cb0;
+  }

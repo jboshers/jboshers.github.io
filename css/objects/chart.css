@@ -1,0 +1,78 @@
+.ct-series-a .ct-slice-pie,
+.ct-series-a .ct-area {
+  fill: #336e7b;
+}
+.ct-series-b .ct-slice-pie,
+.ct-series-b .ct-area {
+  fill: #34495e;
+}
+.ct-series-c .ct-slice-pie,
+.ct-series-c .ct-area {
+  fill: #3498db;
+}
+.ct-series-d .ct-slice-pie,
+.ct-series-d .ct-area {
+  fill: #3a539b;
+}
+.ct-series-e .ct-slice-pie,
+.ct-series-e .ct-area {
+  fill: #4183d7;
+}
+.ct-series-f .ct-slice-pie,
+.ct-series-f .ct-area {
+  fill: #446cb3;
+}
+.ct-series-g .ct-slice-pie,
+.ct-series-g .ct-area {
+  fill: #4d05e8;
+}
+.ct-series-h .ct-slice-pie,
+.ct-series-h .ct-area {
+  fill: #4d13d1;
+}
+.ct-series-i .ct-slice-pie,
+.ct-series-i .ct-area {
+  fill: #52b3d9;
+}
+.ct-series-j .ct-slice-pie,
+.ct-series-j .ct-area {
+  fill: #59abe3;
+}
+.ct-series-k .ct-slice-pie,
+.ct-series-k .ct-area {
+  fill: #c5eff7;
+}
+.ct-series-l .ct-slice-pie,
+.ct-series-l .ct-area {
+  fill: #e4f1fe;
+}
+
+.ct-label {
+  font-size: 1.5rem;
+  font-family: var(--quicksand);
+  font-weight: 700;
+  fill: #FFFFFF;
+  & + .ct-label {
+    transform: translate(0px,-10px);
+  }
+
+  & + .ct-label + .ct-label {
+    transform: translate(0px,-25px);
+  }
+
+  & + .ct-label + .ct-label + .ct-label {
+    transform: translate(0px,-40px);
+  }
+
+  & + .ct-label + .ct-label + .ct-label + .ct-label {
+    transform: translate(0px,-55px);
+  }
+
+  & + .ct-label + .ct-label + .ct-label + .ct-label + .ct-label {
+    transform: translate(0px,-70px);
+  }
+
+  & + .ct-label + .ct-label + .ct-label + .ct-label + .ct-label + .ct-label {
+    transform: translate(0px,-85px);
+  }
+}

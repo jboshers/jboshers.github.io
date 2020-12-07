@@ -1,0 +1,19 @@
+.media {
+  @media (--viewport-small) {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 4rem;
+  }
+}
+
+.media-title {
+  margin: 0 0 .5em;
+}
+
+.media--center {
+  align-items: center;
+}
+
+.media__reverse {
+  grid-template-columns: 2fr 1fr;
+}
