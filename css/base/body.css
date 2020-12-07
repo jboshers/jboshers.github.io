@@ -1,7 +1,11 @@
 body {
-  background: var(--color-off-white);
+  display: grid;
+  background: var(--color-soft-orange);
   color: var(--color-dark-grey);
-  font-family: var(--sans-serif);
+  font-family: var(--quicksand);
+  font-weight: 400;
   font-size: 1.8rem;
   line-height: 1.6;
+  width: 100%;
+  min-height: 100%;
 }

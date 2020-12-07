@@ -1,0 +1,8 @@
+.book {
+    margin-bottom: 2rem;
+}
+
+.bookTitle {
+    font-family: var(--quicksand);
+    font-weight: 700;
+}

@@ -1,0 +1,11 @@
+.album {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.albumTitle {
+    font-family: var(--quicksand);
+    font-weight: 700;
+}

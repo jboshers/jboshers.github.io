@@ -1,0 +1,23 @@
+.image__slightly-round {
+    border-radius: 12px;
+}
+
+.image__medium {
+    max-width: 300px;
+}
+
+.image__large {
+    max-width: 400px;
+}
+
+.image {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.image__cover {
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+}

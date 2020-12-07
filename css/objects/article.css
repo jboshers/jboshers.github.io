@@ -2,26 +2,18 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  background-color: var(--color-off-white);
 }
 
 .article .article__title {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  margin-right: 2rem;
-  font-family: var(--serif);
-  font-size: 3.6rem;
-  letter-spacing: .1rem;
-}
-
-.article .article__title--left {
-  left: 0;
-  margin-left: 2rem;
+  white-space: no-wrap;
 }
 
 .article .content {
   width: 75%;
   max-width: 960px;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
 }
 
 .content.has-sidebar {
@@ -30,4 +22,23 @@
 
 img {
   max-width: 100%;
+}
+
+.article--image {
+  position: relative;
+  width: 100%;
+  margin-right: 0;
+  margin-bottom: 3rem;
+  height: 300px;
+  overflow: hidden;
+  & img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 0 !important;
+    width: 100%;
+  }
+
 }
