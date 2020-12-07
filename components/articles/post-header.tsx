@@ -6,7 +6,7 @@ export default function PostHeader({ title, coverImage, date }) {
   return (
     <>
       <div className="article--image image__slightly-round">
-        <CoverImage title={title} src={coverImage} />
+        <CoverImage title={title} src={coverImage} slug='' />
       </div>
       <PostTitle>{title}</PostTitle>
       <div>
