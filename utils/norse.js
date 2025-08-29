@@ -325,8 +325,7 @@ const norse = [
 
   "Þat kann ek it átjánda er ek æva kennik mey né manns konu  alt er betra  er einn um kann þat fylgir ljóða lokum  nema þeiri einni er mik armi verr eða mín systir sé.",
 
-  "Nú era Háva mál  kveðin Háva höllu í allþörf ýta sonum óþörf jötna sonum heill sá er kvað heill sá er kann njóti sá er nam heilir þeirs hlýddu"
-
-]
+  "Nú era Háva mál  kveðin Háva höllu í allþörf ýta sonum óþörf jötna sonum heill sá er kvað heill sá er kann njóti sá er nam heilir þeirs hlýddu",
+];
 
 module.exports = norse;

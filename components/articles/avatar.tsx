@@ -4,5 +4,5 @@ export default function Avatar({ name, picture }) {
       <img src={picture} alt={name} />
       <div>{name}</div>
     </div>
-  )
+  );
 }

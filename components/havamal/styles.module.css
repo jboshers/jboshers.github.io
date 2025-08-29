@@ -10,9 +10,9 @@
   grid-gap: 10px;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
-  "header  header  header"
-  "content content content"
-  "footer  footer  footer";
+    "header  header  header"
+    "content content content"
+    "footer  footer  footer";
   height: 100vh;
 }
 

@@ -1,5 +1,5 @@
 .main {
-    grid-area: content;
-    position: relative;
-    min-height: 100%;
+  grid-area: content;
+  position: relative;
+  min-height: 100%;
 }

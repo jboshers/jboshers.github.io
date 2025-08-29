@@ -1,13 +1,13 @@
 ---
 title: Building a Standing Desk
-date: '2015-06-29'
+date: "2015-06-29"
 excerpt: In June, I planned some time off between leaving my agency job and starting at a startup. What's a geek to do with time on his hands? Build a desk, that's what!
-coverImage: '/articles/building-a-standing-desk/completed.jpg'
+coverImage: "/articles/building-a-standing-desk/completed.jpg"
 author:
   name: Jeff Boshers
-  picture: '/pixel-head.jpg'
+  picture: "/pixel-head.jpg"
 ogImage:
-  url: '/articles/building-a-standing-desk/completed.jpg'
+  url: "/articles/building-a-standing-desk/completed.jpg"
 ---
 
 In June, I planned some time off between leaving my agency job at [GS&F](http://gsandf.com) and starting at [Bright Bytes](http://brightbytes.net). What's a geek to do with time on his hands? Build a desk, that's what!
@@ -15,6 +15,7 @@ In June, I planned some time off between leaving my agency job at [GS&F](http://
 I figured on using readily available pipe since I didn't have access to a miter saw. I wanted to buy everything at one big box store and be done with it. Besides, those industrial pipe desks look so damn chic. The list for my _final_ build is as follows:
 
 #### Black Iron 1" Pipe
+
 - 6 T-joints
 - 4 flanges
 - 4 end caps
@@ -27,11 +28,13 @@ I figured on using readily available pipe since I didn't have access to a miter 
 - 1 18-inch piece
 
 ##### The Hardware
+
 - 16 3x3/8 bolts
 - 16 3/8 washers
 - 16 3/8 nuts
 
 #### Mah Tools
+
 - Standard battery powered drill
 - Pipe Wrench
 - ViseGrips

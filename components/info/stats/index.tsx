@@ -1,5 +1,5 @@
-import dnd from '../../../utils/stats'
-import styles from './index.module.css'
+import dnd from "../../../utils/stats";
+import styles from "./index.module.css";
 
 const Stats = () => {
   return (
@@ -7,8 +7,8 @@ const Stats = () => {
       <div className={styles.stats}>
         {dnd.map((stat, i) => (
           <div className={styles.statBlock} key={i}>
-            <div className={styles.statName} >{stat.name}</div>
-            <div className={styles.statValue} >{stat.value}</div>
+            <div className={styles.statName}>{stat.name}</div>
+            <div className={styles.statValue}>{stat.value}</div>
           </div>
         ))}
       </div>
@@ -27,7 +27,7 @@ const Stats = () => {
         <div>30 ft.</div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Stats
+export default Stats;

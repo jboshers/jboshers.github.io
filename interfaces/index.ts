@@ -1,9 +1,9 @@
 export type Verse = {
-  id: number
-  english: string
-  norse: string,
-  chapter: string
-}
+  id: number;
+  english: string;
+  norse: string;
+  chapter: string;
+};
 export interface IntroState {
   thing: string; //replace any with suitable type
   who: string;

@@ -1,14 +1,14 @@
-import DateFormatter from '../../components/date-formatter'
-import CoverImage from './cover-image'
-import Link from 'next/link'
+import DateFormatter from "../../components/date-formatter";
+import CoverImage from "./cover-image";
+import Link from "next/link";
 
 type Props = {
-  title?: string
-  coverImage?: string
-  date?: Date
-  excerpt?: string
-  slug?: string
-}
+  title?: string;
+  coverImage?: string;
+  date?: Date;
+  excerpt?: string;
+  slug?: string;
+};
 
 export default function Hero({
   title,
@@ -39,5 +39,5 @@ export default function Hero({
         </div>
       </div>
     </section>
-  )
+  );
 }

@@ -2,12 +2,12 @@
 title: "Trying Out VIM"
 excerpt: Did it start out of boredom? It may have been the desire to be faster. Maybe it was the constant stream of tweets and blog posts about VIM. Could programming be quicker and simpler with VIM? I was stepping out on my editor (Sublime Text 2) and looking at the greener VIM grass.
 date: "2015-06-15"
-coverImage: '/articles/trying-out-vim/vim.jpg'
+coverImage: "/articles/trying-out-vim/vim.jpg"
 author:
   name: Jeff Boshers
-  picture: '/pixel-head.jpg'
+  picture: "/pixel-head.jpg"
 ogImage:
-  url: '/articles/trying-out-vim/vim.jpg'
+  url: "/articles/trying-out-vim/vim.jpg"
 ---
 
 Did it start out of boredom? It may have been the desire to be faster. Maybe it was the constant stream of tweets and blog posts about VIM. Could programming be quicker and simpler with VIM? I was stepping out on my editor (Sublime Text 2) and looking at the greener VIM grass.
@@ -46,6 +46,6 @@ I tried VIM and I liked it so much I wrote this. Give it a shot, maybe you will 
 
 ### More Resources
 
-*   [Learning VIM in a week](https://mikecoutermarsh.com/learning-vim-in-a-week/) by Mike Coutermarsh
-*   [Everyone who tried to convince me to use VIM was wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/) by Yehuda Katz
-*   [VIMCasts](http://vimcasts.org/) by Drew Neil
+- [Learning VIM in a week](https://mikecoutermarsh.com/learning-vim-in-a-week/) by Mike Coutermarsh
+- [Everyone who tried to convince me to use VIM was wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/) by Yehuda Katz
+- [VIMCasts](http://vimcasts.org/) by Drew Neil

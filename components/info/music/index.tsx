@@ -1,18 +1,18 @@
-import styles from './index.module.css'
+import styles from "./index.module.css";
 
 const Album = ({ album }) => {
   return (
     <div className={styles.album}>
       <div>
-        <img className={styles.albumImage} src={album.image[3]['#text']} />
+        <img className={styles.albumImage} src={album.image[3]["#text"]} />
       </div>
       <div className={styles.albumContent}>
         <div className={styles.albumTitle}>{album.name}</div>
         <div className={styles.artist}>{album.artist.name}</div>
       </div>
     </div>
-  )
-}
+  );
+};
 
 const Albums = ({ albums }) => {
   return (
@@ -26,7 +26,7 @@ const Albums = ({ albums }) => {
         ))}
       </ul>
     </div>
-  )
-}
+  );
+};
 
-export default Albums
+export default Albums;

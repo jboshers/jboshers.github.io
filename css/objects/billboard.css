@@ -5,7 +5,7 @@
   flex-shrink: 0;
   background-color: var(--color-red_medium);
   margin-bottom: 2rem;
-  overflow:hidden;
+  overflow: hidden;
 }
 
 .billboard__image {

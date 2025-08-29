@@ -1,6 +1,6 @@
-import DateFormatter from '../../components/date-formatter'
-import CoverImage from './cover-image'
-import Link from 'next/link'
+import DateFormatter from "../../components/date-formatter";
+import CoverImage from "./cover-image";
+import Link from "next/link";
 
 export default function PostPreview({
   title,
@@ -24,5 +24,5 @@ export default function PostPreview({
       </div>
       <p>{excerpt}</p>
     </div>
-  )
+  );
 }

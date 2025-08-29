@@ -51,28 +51,28 @@
   font-size: 1.5rem;
   font-family: var(--quicksand);
   font-weight: 700;
-  fill: #FFFFFF;
+  fill: #ffffff;
   & + .ct-label {
-    transform: translate(0px,-10px);
+    transform: translate(0px, -10px);
   }
 
   & + .ct-label + .ct-label {
-    transform: translate(0px,-25px);
+    transform: translate(0px, -25px);
   }
 
   & + .ct-label + .ct-label + .ct-label {
-    transform: translate(0px,-40px);
+    transform: translate(0px, -40px);
   }
 
   & + .ct-label + .ct-label + .ct-label + .ct-label {
-    transform: translate(0px,-55px);
+    transform: translate(0px, -55px);
   }
 
   & + .ct-label + .ct-label + .ct-label + .ct-label + .ct-label {
-    transform: translate(0px,-70px);
+    transform: translate(0px, -70px);
   }
 
   & + .ct-label + .ct-label + .ct-label + .ct-label + .ct-label + .ct-label {
-    transform: translate(0px,-85px);
+    transform: translate(0px, -85px);
   }
 }
