@@ -40,7 +40,7 @@
     "react-chartist": "^0.14.3",
     "react-dom": "^16.13.1",
     "remark": "^13.0.0",
-    "remark-html": "^13.0.1",
+    "remark-html": "^13.0.2",
     "xml2js": "^0.4.23",
     "yarn": "^1.22.10"
   },
